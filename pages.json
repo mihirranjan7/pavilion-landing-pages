@@ -1,4 +1,5 @@
 {
-  "scripts": [],
-  "root": "/"
+  "name": "plain_page",
+  "path": "/",
+  "scripts": []
 }
